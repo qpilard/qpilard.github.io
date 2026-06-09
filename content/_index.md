@@ -9,6 +9,17 @@ design:
   spacing: '6rem'
 
 sections:
+  - block: cover
+    content:
+      image: uploads/banner.jpg
+      height: 300px
+      overlay:
+        color: '#000000'
+        opacity: 0.3
+      title: ''
+      text: ''
+    design:
+      spacing: 0
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)

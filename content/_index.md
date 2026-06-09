@@ -9,15 +9,6 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: hero
-    content:
-      title: ''
-      text: ''
-      image:
-        filename: uploads/banner.jpg
-        focal_point: Center
-    design:
-      spacing: 0
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -32,8 +23,11 @@ sections:
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
+        image:
+          filename: uploads/banner.jpg
+          position: center
+          size: cover
         gradient_mesh:
           enable: true
 

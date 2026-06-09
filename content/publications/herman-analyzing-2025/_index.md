@@ -1,4 +1,4 @@
-+++
+---
 title = "Analyzing recurrent events in multiple sclerosis: a review of statistical models with application to the MSOAC database"
 date = "2025-01-01"
 publication_types = ["2"]
@@ -24,4 +24,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
-+++
+---

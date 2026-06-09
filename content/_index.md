@@ -21,7 +21,7 @@ sections:
     design:
       background:
         image:
-          filename: uploads/banner.jpg
+          filename: /uploads/banner.jpg
           position: center
           size: cover
 

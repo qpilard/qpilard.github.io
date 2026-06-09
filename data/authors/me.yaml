@@ -3,7 +3,7 @@ slug: me
 is_owner: true
 
 name:
-  display: Dr. Quentin Pilard
+  display: MSc. Quentin Pilard
   given: Quentin
   family: Pilard
   alternate: ''
@@ -24,7 +24,7 @@ bio: |
   He is particularly interested in Statistical Methodological Research, Artificial Intelligence, and Computational Linguistics, with a focus on how modern data science techniques can improve research and decision-making in healthcare.
 
 affiliations:
-  - name: ''
+  - name: 'Biotrial Biometrics'
 
 links:
   - icon: at-symbol

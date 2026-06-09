@@ -3,6 +3,10 @@ title: ''
 date: 2022-10-24
 type: landing
 
+header:
+  image:
+    filename: uploads/banner.jpg
+
 design:
   spacing: '6rem'
 
@@ -18,16 +22,8 @@ sections:
         about: ''
         education: ''
         interests: ''
-    design:
-      background:
-        image:
-          filename: /uploads/banner.jpg
-          position: center
-          size: cover
-
       name:
         size: md
-
       avatar:
         size: medium
         shape: circle

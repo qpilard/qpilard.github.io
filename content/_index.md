@@ -28,11 +28,8 @@ sections:
           filename: uploads/banner.jpg
           position: center
           size: cover
-        gradient:
-          start: "rgba(0,0,0,0.5)"
-          end: "rgba(0,0,0,0.2)"
 
-      # Name heading sizing to accommodate long or short names
+# Name heading sizing to accommodate long or short names
       name:
         size: md # Options: xs, sm, md, lg (default), xl
 

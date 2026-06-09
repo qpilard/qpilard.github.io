@@ -4,7 +4,7 @@ main:
     weight: 10
 
   - name: CV
-    url: static/uploads/resume.pdf
+    url: uploads/resume.pdf
     weight: 11
 
   - name: Publications

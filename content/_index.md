@@ -28,8 +28,9 @@ sections:
           filename: uploads/banner.jpg
           position: center
           size: cover
-        gradient_mesh:
-          enable: true
+        gradient:
+          start: "rgba(0,0,0,0.5)"
+          end: "rgba(0,0,0,0.2)"
 
       # Name heading sizing to accommodate long or short names
       name:
@@ -61,13 +62,4 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    id: courses
-    content:
-      title: Recent courses
-      filters:
-        folders:
-          - courses
-    design:
-      view: card
 ---

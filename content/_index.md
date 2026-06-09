@@ -9,15 +9,13 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: cover
+  - block: hero
     content:
-      image: uploads/banner.jpg
-      height: 300px
-      overlay:
-        color: '#000000'
-        opacity: 0.3
       title: ''
       text: ''
+      image:
+        filename: uploads/banner.jpg
+        focal_point: Center
     design:
       spacing: 0
   - block: resume-biography-3

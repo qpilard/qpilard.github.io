@@ -1,4 +1,4 @@
----
++++
 title = "Association of Multifaceted Mobile Technology–Enabled Primary Care Intervention With Cardiovascular Disease Risk Management in Rural Indonesia"
 date = "2019-01-01"
 publication_types = ["2"]
@@ -24,4 +24,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
----
++++

@@ -1,4 +1,4 @@
----
++++
 title = "High-Dose Influenza Vaccine Is Associated With Reduced Mortality Among Older Adults With Breakthrough Influenza Even When There Is Poor Vaccine-Strain Match"
 date = "2023-01-01"
 publication_types = ["2"]
@@ -24,4 +24,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
----
++++

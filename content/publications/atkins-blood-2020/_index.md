@@ -1,4 +1,4 @@
----
++++
 title = "Blood pressure and treatment patterns by season in australian primary care: an analysis of the medicineinsight database"
 date = "2020-01-01"
 publication_types = ["2"]
@@ -24,4 +24,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
----
++++

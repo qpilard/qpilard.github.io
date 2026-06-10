@@ -3,7 +3,7 @@ slug: me
 is_owner: true
 
 name:
-  display: MSc. Quentin Pilard
+  display: Quentin Pilard
   given: Quentin
   family: Pilard
   alternate: ''
@@ -11,7 +11,7 @@ name:
   pronouns: he/him
 
 postnominals:
-  - PhD
+  - MSc.
 
 status:
   icon: "📊"
@@ -30,10 +30,10 @@ links:
     label: E-mail Me
 
   - icon: brands/github
-    url: https://github.com/your-username
+    url: https://github.com/qpilard
 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/your-profile/
+    url: https://www.linkedin.com/in/quentin-pilard-63aa2596/
 
 interests:
   - Statistical Methodological Research

@@ -36,11 +36,11 @@ sections:
       title: '🔬 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My work lies at the intersection of biostatistics, real-world evidence, and clinical research methodology. I am particularly interested in advancing statistical approaches that improve the use of observational and clinical trial data to support healthcare decision-making and regulatory science.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am currently a Senior Biostatistician at Biotrial Biometrics, where I lead scientific initiatives in real-world evidence and contribute to the development and dissemination of RWE expertise through collaborations, working groups, and training activities.
 
-        Please reach out to collaborate 😃
+        I am always open to scientific discussion and collaboration in these areas 😃
     design:
       columns: '1'
 

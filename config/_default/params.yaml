@@ -37,7 +37,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: dark
+    mode: light
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
@@ -67,7 +67,7 @@ hugoblox:
     # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
     font: "serif"
     # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
-    size: "md"
+    size: "sm"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT

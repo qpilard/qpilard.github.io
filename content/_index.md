@@ -7,21 +7,18 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
-      text: ""
-      headings:
-        about: 'About mme'
-        interests: ''
-    design:
-      background:
-        gradient_mesh:
-          enable: true
+- block: resume-biography
+  content:
+    username: me
+    text: I build AI research tooling and mentor applied ML teams.
+  design:
     avatar:
-      size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-      shape: circle # Options: circle (default), square, rounded
+      size: large
+      shape: circle
+    banner:
+      filename: background.jpg
+    biography:
+      style: "max-width: 60ch;"
 
   - block: markdown
     content:

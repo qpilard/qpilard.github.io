@@ -14,7 +14,7 @@ postnominals:
   - MSc.
 
 status:
-  icon: "📊"
+  icon: "☕️"
 
 role: Real-World Evidence (RWE) Biostatistician
 
@@ -36,13 +36,61 @@ links:
     url: https://www.linkedin.com/in/quentin-pilard-63aa2596/
 
 interests:
-  - Statistical Methodological Research
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Real-World Evidence (RWE)
+  - Causal inference
+  - Clinical trial methodology
+  - Survival analysis
+  - Longitudinal data analysis
+  - Statistical programming (R, Python)
 
-education: []
+education:
+  - area: MSc in Biostatistics
+    institution: ISPED, University of Bordeaux
+    date_start: 2015-09-01
+    date_end: 2017-07-01
+    summary: |
+      Focus on advanced statistical modelling, longitudinal data analysis, survival analysis, and clinical trial methodology.
 
-experience: []
+experience:
+  - role: Senior Biostatistician
+    org: Biotrial Biometrics
+    start: 2024-11-01
+    summary: |
+      Scientific lead for Real-World Evidence (RWE) initiatives.
+      - Lead RWE strategy and methodological development
+      - Collaboration with internal and external stakeholders
+      - Delivery of training sessions and scientific communication
+      - Participation in national and European RWE working groups (AFCRO, PSI)
+
+  - position: Senior Biostatistician
+    org: Quinten Health
+    start: 2020-10-01
+    end: 2024-10-01
+    summary: |
+      Lead statistician on methodological and client-facing projects in clinical and regulatory research.
+      - EMA-related methodological studies (information borrowing, trial replication using RWD)
+      - Causal inference and simulation studies
+      - Target trial emulation, DAGs, multi-state models
+      - Mentoring, recruitment, and reproducibility practices (Git-based workflows)
+
+  - position: Statistical Research Engineer
+    org: INSERM
+    start: 2019-10-01
+    end: 2020-09-01
+    summary: |
+      Longitudinal modelling of cognitive and neuroimaging data (3-Cities cohort).
+      - Mixed models with latent processes and latent classes
+      - Development of dynamic latent process models
+
+  - position: Biostatistician
+    org: The George Institute for Global Health
+    start: 2017-03-01
+    end: 2019-09-01
+    summary: |
+      Clinical trials and observational studies in cardiovascular and neurological research.
+      - Statistical analysis plans and study protocols
+      - Data analysis in R and SAS
+      - Scientific publications and reporting
 
 skills:
   - name: Technical Skills

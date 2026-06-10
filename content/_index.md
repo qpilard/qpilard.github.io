@@ -13,7 +13,7 @@ sections:
       username: me
       text: ""
     design:
-      css_class: light
+      css_class: dark
       background:
         image:
           # Add your image background to `assets/media/`.

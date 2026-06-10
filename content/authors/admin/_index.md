@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 'Quentin Pilard'
+title: ''
 
 # Name pronunciation (optional)
 name_pronunciation: ''

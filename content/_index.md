@@ -12,17 +12,15 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ""
+      headings:
+        about: ''
+        experience: ''
+        education: ''
+        interests: ''
     design:
-      css_class: dark
       background:
-        image:
-          # Add your image background to `assets/media/`.
-          filename: background.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        gradient_mesh:
+          enable: true
     avatar:
       size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
       shape: circle # Options: circle (default), square, rounded

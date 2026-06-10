@@ -44,10 +44,10 @@ interests:
   - Statistical programming (R, Python)
 
 education:
-  - area: MSc in Biostatistics
+  - degree: MSc in Biostatistics
     institution: ISPED, University of Bordeaux
-    date_start: 2015-09-01
-    date_end: 2017-07-01
+    start: 2015-09-01
+    end: 2017-07-01
     summary: |
       Focus on advanced statistical modelling, longitudinal data analysis, survival analysis, and clinical trial methodology.
 
@@ -61,7 +61,6 @@ experience:
       - Collaboration with internal and external stakeholders
       - Delivery of training sessions and scientific communication
       - Participation in national and European RWE working groups (AFCRO, PSI)
-
   - role: Senior Biostatistician
     org: Quinten Health
     start: 2020-10-01
@@ -72,7 +71,6 @@ experience:
       - Causal inference and simulation studies
       - Target trial emulation, DAGs, multi-state models
       - Mentoring, recruitment, and reproducibility practices (Git-based workflows)
-
   - role: Statistical Research Engineer
     org: INSERM
     start: 2019-10-01
@@ -81,7 +79,6 @@ experience:
       Longitudinal modelling of cognitive and neuroimaging data (3-Cities cohort).
       - Mixed models with latent processes and latent classes
       - Development of dynamic latent process models
-
   - role: Biostatistician
     org: The George Institute for Global Health
     start: 2017-03-01

@@ -13,24 +13,27 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: me
+      username: admin
       text: ''
       button:
         text: Download CV
         url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
-      name:
-        size: md
-      avatar:
-        size: medium
-        shape: circle
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: background.jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🔬 My Research'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.

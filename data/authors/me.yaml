@@ -62,7 +62,7 @@ experience:
       - Delivery of training sessions and scientific communication
       - Participation in national and European RWE working groups (AFCRO, PSI)
 
-  - position: Senior Biostatistician
+  - role: Senior Biostatistician
     org: Quinten Health
     start: 2020-10-01
     end: 2024-10-01
@@ -73,7 +73,7 @@ experience:
       - Target trial emulation, DAGs, multi-state models
       - Mentoring, recruitment, and reproducibility practices (Git-based workflows)
 
-  - position: Statistical Research Engineer
+  - role: Statistical Research Engineer
     org: INSERM
     start: 2019-10-01
     end: 2020-09-01
@@ -82,7 +82,7 @@ experience:
       - Mixed models with latent processes and latent classes
       - Development of dynamic latent process models
 
-  - position: Biostatistician
+  - role: Biostatistician
     org: The George Institute for Global Health
     start: 2017-03-01
     end: 2019-09-01

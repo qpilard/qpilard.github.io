@@ -39,15 +39,4 @@ sections:
         I am always open to scientific discussion and collaboration in these areas 😃
     design:
       columns: '1'
-
-  - block: collection
-    id: papers
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publications
-    design:
-      view: article-grid
-      columns: 2
 ---

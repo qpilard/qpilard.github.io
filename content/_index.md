@@ -13,7 +13,7 @@ sections:
       username: me
       text: ""
     design:
-      css_class: dark
+      css_class: light
       background:
         color: black
         image:

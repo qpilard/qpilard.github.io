@@ -8,6 +8,6 @@ sections:
     title: Contact me
     text: |-
       {{< button url="mailto:pilard.quentin@gmail.com" icon="envelope" >}}
-      Me contacter
+      My email
       {{< /button >}}
 ---

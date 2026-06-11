@@ -12,6 +12,7 @@ sections:
     username: me
     text: I build AI research tooling and mentor applied ML teams.
   design:
+    css_class: dark
     avatar:
       size: large
       shape: circle

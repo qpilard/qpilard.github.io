@@ -13,6 +13,9 @@ name:
 postnominals:
   - MSc.
 
+status:
+  icon: ""
+
 role: Real-World Evidence (RWE) Biostatistician
 
 bio: |

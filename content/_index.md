@@ -23,7 +23,7 @@ sections:
       style: "max-width: 40ch;"
 - block: markdown
   content:
-    title: '🔬 My Research'
+    title: 'Bonjour !'
     subtitle: ''
     text: |-
       My work lies at the intersection of biostatistics, real-world evidence, and clinical research methodology. I am particularly interested in advancing statistical approaches that improve the use of observational and clinical trial data to support healthcare decision-making and regulatory science.

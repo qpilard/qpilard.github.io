@@ -16,7 +16,10 @@ sections:
       size: large
       shape: circle
     banner:
-      filename: background.jpg
+      filename: banners/lab.jpg
+      position:
+        x: 50
+        y: 50  
     biography:
       style: "max-width: 60ch;"
 - block: markdown

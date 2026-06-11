@@ -6,5 +6,8 @@ sections:
 - block: markdown
   content:
     title: Contact me
-    text: {{</* button url="#" icon="download" */>}}Download{{</* /button */>}}
+    text: |
+      {{< button url="#" icon="download" >}}
+      Download
+      {{< /button >}}
 ---

@@ -20,7 +20,7 @@ sections:
       image:
         filename: background.webp
     biography:
-      style: "max-width: 30ch;"
+      style: "max-width: 60ch;"
 - block: markdown
   content:
     title: '🔬 My Research'

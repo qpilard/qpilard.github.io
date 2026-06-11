@@ -3,7 +3,7 @@ slug: me
 is_owner: true
 
 name:
-  display: Quentin Pilard
+  display: Quentin Pilard, MSc.
   given: Quentin
   family: Pilard
   alternate: ''
@@ -24,7 +24,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:quentin.pilard@example.com
+    url: mailto:pilard.quentin@gmail.com
     label: E-mail Me
 
   - icon: brands/github

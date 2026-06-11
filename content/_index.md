@@ -10,11 +10,11 @@ sections:
 - block: resume-biography
   content:
     username: me
-    text: I build AI research tooling and mentor applied ML teams.
+    text: ''
   design:
     css_class: dark
     avatar:
-      size: small
+      size: medium
       shape: circle
     background:
       image:

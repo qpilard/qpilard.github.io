@@ -3,7 +3,7 @@ title: Contact
 summary: 
 type: landing
 sections:
-- block: contact-info
+- block: markdown
   content:
     title: ''
     social:

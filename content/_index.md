@@ -15,11 +15,11 @@ sections:
     avatar:
       size: large
       shape: circle
-    banner:
-      filename: banners/lab.jpg
-      position:
-        x: 50
-        y: 50  
+    background:
+      image:
+        filename: background.jpg
+        filters:
+          brightness: 0.1
     biography:
       style: "max-width: 60ch;"
 - block: markdown

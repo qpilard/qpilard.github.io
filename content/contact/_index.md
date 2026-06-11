@@ -7,7 +7,5 @@ sections:
   content:
     title: Contact me
     text: |
-      {{< button url="#" icon="download" >}}
-      Download
-      {{< /button >}}
+      {{</* icon name="brands/github" */>}}
 ---

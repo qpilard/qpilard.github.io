@@ -7,5 +7,7 @@ sections:
   content:
     title: Contact me
     text: |
-      {{</* icon name="brands/github" */>}}
+  {{< button url="mailto:pilard.quentin@gmail.com" icon="envelope" >}}
+  My email
+  {{< /button >}}
 ---

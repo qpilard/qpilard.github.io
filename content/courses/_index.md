@@ -5,8 +5,6 @@ type: landing
 sections:
 - block: markdown
   content:
-    title: Courses
-    text: |-
-    # Statistical Methods for Real-World Data 
-    This course provides a practical introduction to statistical methods for analyzing Real-World Data (RWD). It covers key concepts such as propensity scores, causal inference, survival analysis, and missing data handling, with reproducible examples implemented in R. The material is designed for students, researchers, and practitioners seeking to conduct robust analyses of observational healthcare data. Access the tutorial here: https://qpilard.github.io/RWD-methods/
+    title: Statistical Methods for Real-World Data
+    text: This course provides a practical introduction to statistical methods for analyzing Real-World Data. It covers key concepts such as propensity scores, causal inference, survival analysis, and missing data handling, with reproducible examples implemented in R. The material is designed for students, researchers, and practitioners seeking to conduct robust analyses of observational healthcare data. Access the tutorial [here](https://qpilard.github.io/RWD-methods/)
 ---

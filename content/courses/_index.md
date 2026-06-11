@@ -1,28 +1,10 @@
 ---
 title: Courses
-summary: My courses
+summary: 
 type: landing
-
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
-
 sections:
-  - block: collection
-    id: courses
-    content:
-      title: Courses
-      filters:
-        tag: Course
-        kinds:
-          - section
-    design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+- block: markdown
+  content:
+    title: Why Hugo Blox?
+    text: Hugo Blox ships **Preact blocks**, Tailwind 4, and fast Hugo rendering. Mix Markdown, data-driven content, and components without build grief.
 ---

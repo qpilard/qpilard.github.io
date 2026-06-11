@@ -15,10 +15,9 @@ sections:
     avatar:
       size: large
       shape: circle
-    banner:
-      filename: background.webp
-      filters:
-          brightness: 0.1
+    background:
+      image:
+        filename: background.webp
     biography:
       style: "max-width: 60ch;"
 - block: markdown

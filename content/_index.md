@@ -15,10 +15,9 @@ sections:
     avatar:
       size: large
       shape: circle
-    background:
-      image:
-        filename: background.jpg
-        filters:
+    banner:
+      filename: background.webp
+      filters:
           brightness: 0.1
     biography:
       style: "max-width: 60ch;"

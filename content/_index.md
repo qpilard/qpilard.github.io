@@ -14,13 +14,13 @@ sections:
   design:
     css_class: dark
     avatar:
-      size: large
+      size: small
       shape: circle
     background:
       image:
         filename: background.webp
     biography:
-      style: "max-width: 60ch;"
+      style: "max-width: 30ch;"
 - block: markdown
   content:
     title: '🔬 My Research'

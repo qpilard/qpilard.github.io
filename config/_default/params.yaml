@@ -39,5 +39,24 @@ hugoblox:
       enable: true
     reading_time:
       enable: true
-  search:
-    enable: true
+    citations:
+      style: apa
+  seo:
+    title: "Qpilard | Portfolio & Projects"
+    location:
+    address:
+      street: ""
+      city: "Rennes"
+      region: "Bretagne"
+      postal_code: ""
+      country: "France"
+    coordinates:
+      latitude: null
+      longitude: null
+    phone: ""
+  ai:
+    allow:
+      - /
+    disallow: []
+    note: "Public portfolio site - allow indexing by search engines and AI crawlers"
+    contact: "pilard.quentin@gmail.com"

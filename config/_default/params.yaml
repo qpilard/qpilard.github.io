@@ -43,7 +43,6 @@ hugoblox:
       style: apa
   seo:
     title: "Quentin Pilard"
-    google_site_verification: "iDAVd7mqF81ApXwAoeblLqEdCZCVkvfyZf2IhWj2dTE"
     location:
     address:
       street: ""
@@ -61,3 +60,5 @@ hugoblox:
     disallow: []
     note: "Public portfolio site - allow indexing by search engines and AI crawlers"
     contact: "pilard.quentin@gmail.com"
+  verification:
+    google: "iDAVd7mqF81ApXwAoeblLqEdCZCVkvfyZf2IhWj2dTE"
